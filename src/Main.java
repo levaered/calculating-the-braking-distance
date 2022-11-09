@@ -31,8 +31,8 @@ public class Main {
             System.out.println("7. Гололед");
             System.out.println("Enter");
             int typeOfRoadSurface = in.nextInt();
-            s = brakingDistance.brakingDistance(carSpeed, 1, typeOfRoadSurface);
+            s = brakingDistance.brakingDistance(carSpeed, 2, typeOfRoadSurface);
         }
-        System.out.println(s);
+        System.out.println("Тормозной путь: " + s);
     }
 }
