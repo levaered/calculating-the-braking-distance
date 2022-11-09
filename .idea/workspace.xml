@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a07b5d8-693d-4e25-9631-fdaf4ba21322" name="Changes" comment="fixed mistake">
+      <change beforePath="$PROJECT_DIR$/out/production/calculating-the-braking-distance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculating-the-braking-distance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/brakingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brakingDistance.java" afterDir="false" />
+    </list>
+    <list id="bf566a9d-a895-42dd-9468-fd15e3bc75ec" name="Changes by user" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/brakingDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/brakingDistance.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/brakingDistance.java">
+      <ranges>
+        <range start1="5" end1="6" start2="5" end2="6" changelist="0a07b5d8-693d-4e25-9631-fdaf4ba21322" />
+        <range start1="7" end1="23" start2="7" end2="25" changelist="0a07b5d8-693d-4e25-9631-fdaf4ba21322" />
+        <range start1="24" end1="24" start2="26" end2="50" changelist="0a07b5d8-693d-4e25-9631-fdaf4ba21322" />
+        <range start1="26" end1="48" start2="52" end2="114" changelist="bf566a9d-a895-42dd-9468-fd15e3bc75ec" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GO8ImYuLUCo463nDN53L5j52Lq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="calculating-the-braking-distance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a07b5d8-693d-4e25-9631-fdaf4ba21322" name="Changes" comment="" />
+      <created>1666248192828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666248192828</updated>
+      <workItem from="1666248195353" duration="5105000" />
+      <workItem from="1666854412052" duration="414000" />
+      <workItem from="1666879030942" duration="33000" />
+      <workItem from="1667983551081" duration="4710000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed mistake">
+      <created>1667984056749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667984056749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed mistake">
+      <created>1667984093825</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667984093825</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed mistake" />
+  </component>
+</project>
